@@ -1,0 +1,41 @@
+C:\Users\romangu\source\ramstestbot\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+C:\Users\romangu\source\ramstestbot\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+C:\Users\romangu\source\ramstestbot\bin\Bot Application.dll.config
+C:\Users\romangu\source\ramstestbot\bin\Bot Application.dll
+C:\Users\romangu\source\ramstestbot\bin\Bot Application.pdb
+C:\Users\romangu\source\ramstestbot\bin\Autofac.dll
+C:\Users\romangu\source\ramstestbot\bin\Chronic.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Builder.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Connector.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\romangu\source\ramstestbot\bin\Newtonsoft.Json.dll
+C:\Users\romangu\source\ramstestbot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romangu\source\ramstestbot\bin\System.Net.Http.Formatting.dll
+C:\Users\romangu\source\ramstestbot\bin\System.Web.Http.dll
+C:\Users\romangu\source\ramstestbot\bin\System.Web.Http.WebHost.dll
+C:\Users\romangu\source\ramstestbot\bin\Autofac.xml
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Builder.xml
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.Bot.Connector.xml
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\romangu\source\ramstestbot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\romangu\source\ramstestbot\bin\Newtonsoft.Json.xml
+C:\Users\romangu\source\ramstestbot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\romangu\source\ramstestbot\bin\System.Net.Http.Formatting.xml
+C:\Users\romangu\source\ramstestbot\bin\System.Web.Http.xml
+C:\Users\romangu\source\ramstestbot\bin\System.Web.Http.WebHost.xml
+C:\Users\romangu\source\ramstestbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\romangu\source\ramstestbot\obj\Debug\Bot Application.dll
+C:\Users\romangu\source\ramstestbot\obj\Debug\Bot Application.pdb
